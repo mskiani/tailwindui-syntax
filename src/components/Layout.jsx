@@ -11,8 +11,7 @@ import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
 
-import { navigation } from '@/routes/index';
-
+import { navigation } from '@/routes/index'
 
 function GitHubIcon(props) {
   return (
